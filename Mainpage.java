@@ -5,7 +5,7 @@ import javax.swing.*;
 import java.awt.event.*;
 
 
-public class Mainframe extends JFrame{
+public class Mainpage extends JFrame{
 
     public static void main(String[] args) {
         new Mainframe().setVisible(true);
